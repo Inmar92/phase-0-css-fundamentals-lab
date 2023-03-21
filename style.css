@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center;
+}
+body {
+  text-align: center;
+}
+figcaption {
+  text-align: center;
+  font-size: smaller;
+}
+p.s {
+  width: 800px;
+  text-align: center;
+}
+div {
+  float: left;
+  width: 25%;
+  background-color: 3px red;
+  padding: 20px;
+}
+
